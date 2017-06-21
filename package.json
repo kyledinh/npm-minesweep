@@ -1,0 +1,14 @@
+{
+  "name": "minesweep",
+  "version": "0.1.0",
+  "description": "Javascript based minesweep game that can be played via console. ",
+  "main": "minesweep.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Kyle Dinh <kyledinh@gmail.com> (http://kyledinh.com)",
+  "license": "MIT",
+  "devDependencies": {
+	"tap": "^10.0.0"
+  }
+}
