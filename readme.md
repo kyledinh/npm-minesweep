@@ -111,6 +111,7 @@ object returned from cheat()
 Usage
 -----
 This module is written to use `require()` in the Nodejs context or directly included in an HTML context with a `<script>` tag. In the browser, the module will be loaded to the global namespace as `APP.Minesweep`. With the option of setting `APP.LOG_LEVEL='DEBUG'` to turn the console.log to a verbose state for debugging. Just use the `mindsweep.js` file without alteration.
+
 Notes
 -----
 <img src="https://lh6.googleusercontent.com/p_RWhFwdGRuIbD3TtkStUqfhOagyfM86ouJbH9mTHNZRdZwA-7g999pLip6jIJXoZtWfWKOP5d-cGxWRbP16PGj307fOpJ_ZgPZNxSi2hu0g07Wc8MGCZuLINg"  width="600" />
