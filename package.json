@@ -1,14 +1,24 @@
 {
-  "name": "minesweep",
-  "version": "0.1.0",
-  "description": "Javascript based minesweep game that can be played via console. ",
-  "main": "minesweep.js",
-  "scripts": {
-    "test": "node test/test.js"
-  },
-  "author": "Kyle Dinh <kyledinh@gmail.com> (http://kyledinh.com)",
-  "license": "MIT",
-  "devDependencies": {
-	"tap": "^10.0.0"
-  }
+    "name": "@kyledinh/npm-minesweep",
+    "version": "0.1.0",
+    "description": "Javascript based minesweep game that can be played via console. ",
+    "main": "minesweep.js",
+    "engines": {
+        "node": ">=4.2.4"
+    },
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kyledinh/npm-minesweep.git"
+    },
+    "keywords": [
+        "game"
+    ],
+    "author": "Kyle Dinh <kyledinh@gmail.com> (http://kyledinh.com)",
+    "license": "MIT",
+    "devDependencies": {
+        "tap": "^10.0.0"
+    }
 }

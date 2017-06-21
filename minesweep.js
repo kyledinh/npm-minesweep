@@ -1,3 +1,8 @@
+/*
+ * Updated by Kyle Dinh, 2017.
+ * https://github.com/kyledinh/npm-minesweep
+ */
+
 var APP = APP || {};
 
 APP.Minesweep = function (mode) {
