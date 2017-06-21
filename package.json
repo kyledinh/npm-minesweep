@@ -1,5 +1,5 @@
 {
-    "name": "@kyledinh/npm-minesweep",
+    "name": "npm-minesweep",
     "version": "0.1.0",
     "description": "Javascript based minesweep game that can be played via console. ",
     "main": "minesweep.js",
